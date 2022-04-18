@@ -639,6 +639,14 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
+.quote {
+    font-size: 18px;
+}
+
+q {
+    font-style: italic;
+}
+
 h1,
 h2,
 h3,
